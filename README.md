@@ -1,4 +1,5 @@
 Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
+-Objective : This PHP project is Pushed to the AWS ec2 instance for Hosting
 ========
 
 A simple and basic system to add, edit, delete and view using PHP and MySQL. 
